@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         myButton.setTitle("Borrar texto", for: .normal)
         
         // TextField
-        myTextField.placeholder = "Ingrese el texto"
+        myTextField.placeholder = "Texto a insertar"
         myTextField.delegate = self
         
         // TextView
