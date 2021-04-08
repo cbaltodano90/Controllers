@@ -32,6 +32,7 @@ class ViewController: UIViewController {
         // ActivityIndicator
         myActivityIndicator.color = .red
         myActivityIndicator.hidesWhenStopped = true
+        //comentario1
 
         
         
