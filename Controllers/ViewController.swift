@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         myTextView.isEditable = false
         
         // ActivityIndicator
-        myActivityIndicator.color = .red
+        myActivityIndicator.color = .blue
         myActivityIndicator.hidesWhenStopped = true
 
         
